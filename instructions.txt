@@ -1,0 +1,20 @@
+
+All files are in the main directory.
+
+-------------
+
+To compile Java files, use:
+
+javac *.java
+
+-------------
+
+To run Client.java, use:
+
+java Client
+
+-------------
+
+To run Server.java, use:
+
+java Server
